@@ -1,2 +1,2 @@
-# science-projx
-personal data science projects for learning and testing
+# TBI classification
+graduate studies project on classifying influential factors associated with traumatic brain injuries in collegiate athletes.
